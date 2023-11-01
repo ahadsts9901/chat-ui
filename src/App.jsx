@@ -1,6 +1,6 @@
 import { useState } from 'react'
 import './App.css'
-import ChatScreen from './components/chatUsers/ChatScreen'
+import ChatScreen from './components/chatScreen/ChatScreen'
 
 function App() {
   const [count, setCount] = useState(0)
